@@ -1,0 +1,11 @@
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\FdesignLauncher.Form1.resources
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\FdesignLauncher.Form2.resources
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\FdesignLauncher.Form3.resources
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\FdesignLauncher.Resources.resources
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\FdesignLauncher.vbproj.GenerateResource.Cache
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\bin\Release\Sanctarius-Launcher.exe
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\bin\Release\Sanctarius-Launcher.pdb
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\bin\Release\Sanctarius-Launcher.xml
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\Sanctarius-Launcher.exe
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\Sanctarius-Launcher.xml
+C:\Users\Sanctarius\Desktop\FdesignLauncher\FdesignLauncher\obj\x86\Release\Sanctarius-Launcher.pdb
